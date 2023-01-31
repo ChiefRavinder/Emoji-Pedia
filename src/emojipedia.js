@@ -25,7 +25,7 @@ const emojipedia = [
       emoji: "🦎",
       name: "Lizard",
       meaning:
-        "Average Maharashtri fetish"
+        "Pictorial Representation of Lizard"
     }
   ];
   
